@@ -16183,8 +16183,8 @@
   },
   {
     "id": "com.xiaomi.glgm",
-    "list": "Oem",
-    "description": "Xiaomi Games\nNot sure if this app still exists.\n",
+    "list": "Oem", 
+    "description": "Game Center\nIt's a gaming platform from Xiaomi that provides game recommendations, news, and social features.\nIncludes achievements, leaderboards, and friend lists for supported games.\nAlso displays ads and collects usage data.\n",
     "dependencies": [],
     "neededBy": [],
     "labels": [],
